@@ -2,7 +2,7 @@
 
 Welcome to CityTempTalk, a script that brings the current weather to life with a touch of voice! ☀️❄️
 
-![CityTempTalk in Action][your-gif-url-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcity&psig=AOvVaw0azAF-Sw83h6YqFjXsjf0S&ust=1701891473747000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODUxPeF-YIDFQAAAAAdAAAAABAE)
+![CityTempTalk in Action][your-gif-url-here] (<iframe src="https://giphy.com/embed/l0HlM6oMVfvqZgSMU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyberwar-l0HlM6oMVfvqZgSMU">via GIPHY</a></p>)
 
 ## 🚀 How It Works
 
