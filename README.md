@@ -13,7 +13,7 @@ Welcome to CityTempTalk, a script that brings the current weather to life with a
 3. **Voice Feedback:** The script provides spoken feedback on various aspects of the city:
    - **Location:** Discover the region of the city.
    - **Temperature:** Get the current temperature in degrees Celsius.
-   - **Geographical Coordinates:** Find out the latitude and longitude of the city.
+   - **Geographical Coordinates:** Find out the latitude and as well as longitude of the city
    - **Local Time:** Stay up-to-date with the current local time.
 
 ## 🌟 Why CityTempTalk?
