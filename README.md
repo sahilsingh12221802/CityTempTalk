@@ -26,7 +26,7 @@ Welcome to Sahil's immersive 3D portfolio website! 🚀 This project showcases S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sahil-portfolio.git
+   git clone https://github.com/sahilsingh12221802/sahil-portfolio.git
 Navigate to the project folder:
 
 bash
